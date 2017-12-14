@@ -43,7 +43,7 @@ nav ul {
 /***** Image Styling *****/
 
 article img {
-  width: 75%;
+  width: 85%;
 }
 
 figure img {
@@ -53,7 +53,7 @@ figure img {
 }
 
 figure {
-  text-align: right;
+  text-align: center;
 }
 
 .logo {
